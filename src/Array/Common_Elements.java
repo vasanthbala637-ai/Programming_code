@@ -11,7 +11,7 @@ public class Common_Elements {
 	 * 							*) ELSE SKIP THE PRINT BOTH ARRAY ELEMENTS
 	 */
 	public static void main(String[] args) {
-		int [] arr1= {1,2,3,4,5};
+		int [] arr1= {1,2,3,4,10};
 		int [] arr2= {5,2,6,7,1};
 		System.out.println("COMMON ELEMENTS OF AN ARRAY 1 AND ARRAY 2 : ");
 		for(int i=0;i<arr1.length;i++) {
